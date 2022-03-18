@@ -1,0 +1,39 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+canvas{
+    border:  5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    background-color: rgba(246, 105, 11, 0.856);
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body{
+    background-image: url("bg.webp");
+    background-position: center;
+    background-size: cover;
+}
+.note{
+    color: black;
+}
